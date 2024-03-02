@@ -8,3 +8,4 @@
 * Week 6: Backtracking, scope, data structures; stacks, queues and heaps
 * Week 7: Classes, objects and user defined datatypes
 * Week 8: Dynamic programming, wrap-up
+## IIT Ropar Prof.Sudarshan Iyengar
